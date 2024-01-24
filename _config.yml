@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Change to Devloper
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      '성장하는 <a href="http://hyde.getpoole.com" target="_blank">개발자</a>가 되기 위해 기록하는 개발자'
 url:              'https://gwsheep.github.io'
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
